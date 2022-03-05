@@ -1,216 +1,123 @@
-# techlauncher-water-landingpage
+# TechLauncher Project 22-S1-2-C Water
 
 ## Table of Content
- 
 
-1 Table of Content
+</br>
 
-2 Goal
+1. Goal
 
-3 Core Team
+2. Core Team
 
-4 Our Clients
+3. Our Clients
 
-5 Roadmap
+4. Roadmap
 
-6 Know your spaces 
+5. Project Details
 
-7 Know your pages
+6. Know your spaces
 
-8 Our useful resources and links
+7. Know your pages
 
+8. Our useful resources and links
 
-##  Goal
+</br>
 
-The main goal of our team is to predict groundwater flow faster and more efficient way by developing emulator. 
+## Goal
 
-Because groundwater models are slow to run and ground truth data is expensive, we implement machine learning (ML) method to accomplish this goal. 
+</br>
 
-Our project aims to create : 
+The main goal of our team is to predict groundwater flow faster and more efficient way by developing emulator.
+
+Because groundwater models are slow to run and ground truth data is expensive, we implement machine learning (ML) method to accomplish this goal.
+
+**Our project aims to create :**
 
 (1) Benchmark datasets for different Partial Differential Equations (PDE)
 
 (2) methods to facilitate better preduction given the data sets from stage 1
 
-##  Core Team
+</br>
 
-John Kim
+## Core Team
 
-Team Leader / Spokesman
+</br>
 
-johnmjkim1216@gmail.com
+|John Kim|Yizhou Yang|Name|Name|Name|Name|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Team Leader / Spokesman|Spokesman|Role|Role|Role|Role|
+|johnmjkim1216@gmail.com|u7098888@anu.edu.au|contact details|contact details|contact details|contact details|
 
-Yizhou Yang
+</br>
 
-Spokesman
+## Our Clients
 
-u7098888@anu.edu.au
+</br>
 
-Name
+|Dan MacKinlay (Lead)|Dan Pagendam|Petra Kuhnert|
+|:-:|:-:|:-:|
+|Dan.MacKinlay@data61.csiro.au|Dan.Pagendam@data61.csiro.au|Petra.Kuhnert@data61.csiro.au|
 
-Role
+</br>
 
-contact details
+## Roadmap
 
-Name
-
-Role
-
-contact details
-
-Name
-
-Role
-
-contact details
-
-Name
-
-Role
-
-contact details
-
-##  Our Clients
-
-Dan MacKinlay (Lead)
-
-Dan.MacKinlay@data61.csiro.au
-
-Dan Pagendam
-
-Dan.Pagendam@data61.csiro.au
-
-Petra Kuhnert
-
-Petra.Kuhnert@data61.csiro.au
-
- 
-
-##  Roadmap
+</br>
 
 (Incomplete) Our project roadmap is as below
 
-28-Feb
-2022
-07-Mar
-14-Mar
-21-Mar
-28-Mar
-04-Apr
-11-Apr
-18-Apr
-25-Apr
-02-May
-09-May
-16-May
-23-May
-30-May
-Week 3 Audit
-Week 6 Audit
-Week 10 Audit
-Team ManagementNew LaneProductJohn
-Social campaign
+</br>
 
-Website development
+## Project Details
 
-Crowdfunding campaign
+</br>
 
-Project Initialization
+- [Meeting Notes](https://github.com/verdantwynnd/techlauncher-water-landingpage/tree/main/Meeting%20Notes)
+- [Decision Logs](https://github.com/verdantwynnd/techlauncher-water-landingpage/tree/main/Decision%20Log)
+- [Statement of Work](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Agreements%20and%20Contract/Statement%20of%20Work%20(SoW).md)
+- [Intellectual Property/Non-Disclosure Agreement (IP/NDA)](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Agreements%20and%20Contract/Intellectual%20Property%20or%20Non-Disclosure%20Agreement%20(IP%20or%20NDA).md)
+- [Client's Vision](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Client's%20Vision.md)
+- [Problematization Analysis](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Problematization%20Analysis.md)
+- [Project Milestone and Timeline](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Project%20Milestone%20and%20Timeline.md)
+- [Resources, Risks and Potential Cost](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Resources%20and%20Constraints.md)
+- [Technical and Other Constraints](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Technical%20and%20other%20constraints.md)
 
-Planning
-
-Development
-
-Testing
-
-Deploy
-
-Recruitment
-
-Assessment Period
-
-Training
-
-Finalisation
-
+</br>
 
 ## Know your spaces
 
+</br>
+
 We are using following tools with specific purpose. Shortcut links of each tool can be found here.
 
-Tool
+||Tool|Purpose|
+|:-:|:-:|:-|
+|1|Confluence|- Project overview, description & landing page</br> - Project admin, plans, tasks & documents</br> - Set product requirements & project timeline</br> - Meeting notes & decision logs|
+|2|Slack|- Communication|
+|3|Trello|- Task, schedule managements</br> - Task allocation, member designation</br> - Progress status</br> - Progress visualization|
+|4|Google Drive|- Shared folder for all resources|
+|5|GitHub|- Project development repository|
 
-Purpose
+</br>
 
-Tool
+We also have separate confluence spaces for specific projects as followings.
 
-Purpose
+</br>
 
-1	
-Confluence
+||Tool|Purpose|
+|:-:|:-:|:-|
+|1|Technical Documentation Space|Every technical, product documents created by the team</br> - Product specification</br> - Technical documentation|
 
-Project overview, description & landing page
-
-Project admin, plans, tasks & documents
-
-Set product requirements & project timeline
-
-Meeting notes & decision logs
-
-2	
-Slack
-
-Communication
-
-3	
-Trello
-
-Task, schedule managements
-
-Task allocation, member designation
-
-Progress status
-
-Progress visualization
-
-4	
-Google Drive
-
-Shared folder for all resources
-
-5	
-GitHub
-
-Project development repository
-
- 
-
-We also have separate confluence spaces for specific projects as followings. 
-
-Tool
-
-Purpose
-
-1	
-Technical Documentation Space
-
-Every technical, product documents created by the team
-
-Product specification
-
-Technical documentation
-
-We are also open to add more shortcut links if necessary by the decision of the team
-
- 
+</br>
 
 ## Know your pages
+
+</br>
 
 Every admin documents - meeting notes, agendas, project plans, members information - created by the team must be stored here.
 
 Our useful resources and links
 Every useful resources or links are add below
 
-Hybrid prediction - Machine Learning & Artificial Intelligence 
+Hybrid prediction - Machine Learning & Artificial Intelligence
 
-ANU TechLauncher Docs and Examples 
+ANU TechLauncher Docs and Examples
