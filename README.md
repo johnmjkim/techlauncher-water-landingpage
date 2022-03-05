@@ -78,7 +78,7 @@ Because groundwater models are slow to run and ground truth data is expensive, w
 - [Client's Vision](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Client's%20Vision.md)
 - [Problematization Analysis](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Problematization%20Analysis.md)
 - [Project Milestone and Timeline](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Project%20Milestone%20and%20Timeline.md)
-- [Resources, Risks and Potential Cost](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Resources%20and%20Constraints.md)
+- [Resources, Risks and Potential Cost](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Resources,%20Risks%20and%20Potential%20costs.md)
 - [Technical and Other Constraints](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Technical%20and%20other%20constraints.md)
 
 </br>

@@ -12,11 +12,11 @@
 
 </br>
 
-- HPC clusters will be needed for generating the dataset.
+- High Performance Computing (HPC) clusters will be needed for generating the dataset.
 
 </br>
 
-- Authorization of remote access to HPC will be needed for the project.
+- Authorization of remote access to HPC clusters will be needed for the project.
 
 </br>
 
