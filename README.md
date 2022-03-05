@@ -26,7 +26,7 @@
 
 </br>
 
-The main goal of our team is to predict groundwater flow faster and more efficient way by developing emulator.
+The main goal of our team is to predict groundwater flow in a faster and more efficient way by developing an emulator.
 
 Because groundwater models are slow to run and ground truth data is expensive, we implement machine learning (ML) method to accomplish this goal.
 
@@ -34,7 +34,7 @@ Because groundwater models are slow to run and ground truth data is expensive, w
 
 (1) Benchmark datasets for different Partial Differential Equations (PDE)
 
-(2) methods to facilitate better preduction given the data sets from stage 1
+(2) Methods to facilitate better prediction given the data sets from stage 1
 
 </br>
 
@@ -42,10 +42,10 @@ Because groundwater models are slow to run and ground truth data is expensive, w
 
 </br>
 
-|John Kim|Yizhou Yang|Name|Name|Name|Name|
+|John Kim|Yizhou Yang|Simon Brown|Name|Name|Name|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|Team Leader / Spokesman|Spokesman|Role|Role|Role|Role|
-|johnmjkim1216@gmail.com|u7098888@anu.edu.au|contact details|contact details|contact details|contact details|
+|Team Leader / Spokesman|Spokesman|Programmer|Role|Role|Role|
+|johnmjkim1216@gmail.com|u7098888@anu.edu.au|u7123108@anu.edu.au|contact details|contact details|contact details|
 
 </br>
 
