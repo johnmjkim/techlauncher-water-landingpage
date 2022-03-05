@@ -1,14 +1,15 @@
-22-S1-2-C Water
-
-MEETING 03/02
+# 22-S1-2-C Water MEETING 03/02
 
 
 02 MARCH 2022 / 2:00 PM / VIRTUAL ROOM 
 
-ATTENDEES
+## ATTENDEES
+
+</br>
+
 John Kim
 
-Ran Zhang 
+Ran Zhang
 
 Gefei Shan
 
@@ -24,8 +25,13 @@ Simon Brown
 
 Dan Pagendam
 
-AGENDA
-Tutorial Reconstruction / Last Meeting Follow-up 
+</br>
+
+## AGENDA
+
+</br>
+
+Tutorial Reconstruction / Last Meeting Follow-up
 Send tutorial agenda prior to tutorial
 
 Audit : 10~15 min presentation
@@ -38,9 +44,13 @@ Contents Evaluation Begin : 7th Mar
 
 Discuss Statement of Work (SoW) with clients
 
- 
+</br>
 
-Things to Discuss
+## Things to Discuss
+
+</br>
+
+
 Give access of slack channel to David Flores
 
 Landing Page
@@ -51,14 +61,11 @@ Landing page (just for submission)
 
 Private (pull to landing page at the end)
 
- 
+</br>
 
+## Purpose of the project
 
-
-
-Purpose of the project
-
- 
+</br>
 
 Predict groundwater flow (long term goal)
 
@@ -74,47 +81,36 @@ Groundwater models are slow to run. We develop ML methods to find a faster, more
 
 Think of this as a 2-stage project.  (1) Benchmark datasets for different PDEs; (2) Methods to facilitate better prediction given the datasets from stage 1.
 
+</br>
 
 
+## Team role
 
-Team role
+</br>
 
-List of role : 
+List of role :
 
 PhiFlow
 
-John Kim :
-
-Team Management
-
- 
+John Kim : Team Management
 
 Yizhou Yang :
 
- 
-
 Simon Brown :
-
- 
 
 Tianqi Wang :
 
- 
-
 Gefei Shan :
 
- 
+Ran Zhang : PhiFlow
 
-Ran Zhang :
+</br>
 
-PhiFlow
+## Milestones
 
+</br>
 
-
-
-Milestones
-
-Wk 3
+### Wk 3
 
 Identify available resources, admin
 
@@ -130,7 +126,7 @@ https://github.com/barkm/torch-fenics
 
 Done audits
 
-Wk 4
+### Wk 4
 
  
 
@@ -148,35 +144,31 @@ Reaction-diffusion (https://en.wikipedia.org/wiki/Reaction–diffusion_system)
 
 Library exists
 
-Wk 6
+### Wk 6
 
 Ddd
 
- 
-
-TB 1~2
+### TB 1~2
 
 Dddd
 
 ddddd
 
-
-
-
-Wk 7~10 
+### Wk 7~10
 
 Meaningful outputs (datasets and API) of listed PDE problems 
 
 Apr. 29th : Conference
 
-Wk 11~12 
+#### Wk 11~12
 
 May. 28th : Benchmark physics neural network problems
 
+</br>
 
+## Skills/Tools/Knowledge needed
 
-
-Skills/Tools/Knowledge needed
+</br>
 
 ODE, PDE
 
@@ -186,25 +178,32 @@ Deep learning framework
 
 Pytorch/Jax
 
-Slurm : workload manager 
+Slurm : workload manager
 
 high performance computing (e.g. Slurm, PBS jobs)
 
+</br>
 
-
-
-Request for course convenor
+## Request for course convenor
 
 Ask for account access for NCI, allocate computing power
 
- 
+</br>
 
-NOTES
+## NOTES
+
+</br>
+
 Dsfgdsfg
 
 sdfg
 
-ACTION ITEMS
+</br>
+
+## ACTION ITEMS
+
+</br>
+
 Give access of slack channel to David Flores
 
 Prepare Week 3 Audit :
@@ -225,7 +224,10 @@ Sdf
 
 sdf
 
-QUESTION/AGENDA TO DAVID FLORES (TUTOR)
- 
+</br>
 
-NEXT WEEK’S AGENDA
+## QUESTION/AGENDA TO DAVID FLORES (TUTOR)
+
+</br>
+
+## NEXT WEEK’S AGENDA
