@@ -26,15 +26,15 @@
 
 </br>
 
-The main goal of our team is to predict groundwater flow in a faster and more efficient way by developing an emulator.
+The main goal of our team is to develop an emulator of groundwater flow for faster and more efficient prediction.
 
-Because groundwater models are slow to run and ground truth data is expensive, we implement machine learning (ML) method to accomplish this goal.
+Because groundwater models are slow to run and ground truth data is expensive, we implement a machine learning (ML) method to accomplish this goal.
 
 **Our project aims to create :**
 
 (1) Benchmark datasets for different Partial Differential Equations (PDE)
 
-(2) Methods to facilitate better prediction given the data sets from stage 1
+(2) methods to facilitate better prediction given the data sets from stage 1
 
 </br>
 
@@ -42,9 +42,10 @@ Because groundwater models are slow to run and ground truth data is expensive, w
 
 </br>
 
-|John Kim|Yizhou Yang|Simon Brown|Name|Name|Name|
+|John Kim|Yizhou Yang|Ran Zhang|Tianqi Wang|Simon Brown|Gefei Shan|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|Team Leader / Spokesman|Spokesman|Programmer|Role|Role|Role|
+|Team Leader / Spokesman|Spokesman|-|-|-|-|
+|ODE/PDE Lead|S/W Testing Lead|PhiFlow/Physical Modelling Lead|Machine Learning Lead|Programming Lead|API Development Lead|
 |johnmjkim1216@gmail.com|u7098888@anu.edu.au|u7123108@anu.edu.au|contact details|contact details|contact details|
 
 </br>
@@ -63,7 +64,9 @@ Because groundwater models are slow to run and ground truth data is expensive, w
 
 </br>
 
-(Incomplete) Our project roadmap is as below
+Our project roadmap is as below, detailed timeline or dates may vary by potential risks
+
+![roadmap](/assets/images/ProjectWaterRoadmap.png)
 
 </br>
 
@@ -71,7 +74,7 @@ Because groundwater models are slow to run and ground truth data is expensive, w
 
 </br>
 
-- [Meeting Notes](https://github.com/verdantwynnd/techlauncher-water-landingpage/tree/main/Meeting%20Notes)
+- [Meeting Notes](/Meeting%20Notes)
 - [Decision Logs](https://github.com/verdantwynnd/techlauncher-water-landingpage/tree/main/Decision%20Log)
 - [Statement of Work](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Agreements%20and%20Contract/Statement%20of%20Work%20(SoW).md)
 - [Intellectual Property/Non-Disclosure Agreement (IP/NDA)](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Agreements%20and%20Contract/Intellectual%20Property%20or%20Non-Disclosure%20Agreement%20(IP%20or%20NDA).md)
