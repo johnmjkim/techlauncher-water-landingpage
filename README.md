@@ -46,7 +46,7 @@ Because groundwater models are slow to run and ground truth data is expensive, w
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Team Leader / Spokesman|Spokesman|-|-|-|-|
 |ODE/PDE Lead|S/W Testing Lead|PhiFlow/Physical Modelling Lead|Machine Learning Lead|Programming Lead|API Development Lead|
-|johnmjkim1216@gmail.com|u7098888@anu.edu.au|u7123108@anu.edu.au|contact details|contact details|contact details|
+|johnmjkim1216@gmail.com|u7098888@anu.edu.au|phyzr96@gmail.com|u7149572@anu.edu.au|u7123108@anu.edu.au|gefei.shan@anu.edu.au|
 
 </br>
 
@@ -75,14 +75,14 @@ Our project roadmap is as below, detailed timeline or dates may vary by potentia
 </br>
 
 - [Meeting Notes](/Meeting%20Notes)
-- [Decision Logs](https://github.com/verdantwynnd/techlauncher-water-landingpage/tree/main/Decision%20Log)
-- [Statement of Work](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Agreements%20and%20Contract/Statement%20of%20Work%20(SoW).md)
-- [Intellectual Property/Non-Disclosure Agreement (IP/NDA)](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Agreements%20and%20Contract/Intellectual%20Property%20or%20Non-Disclosure%20Agreement%20(IP%20or%20NDA).md)
-- [Client's Vision](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Client's%20Vision.md)
-- [Problematization Analysis](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Problematization%20Analysis.md)
-- [Project Milestone and Timeline](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Project%20Milestone%20and%20Timeline.md)
-- [Resources, Risks and Potential Cost](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Resources,%20Risks%20and%20Potential%20costs.md)
-- [Technical and Other Constraints](https://github.com/verdantwynnd/techlauncher-water-landingpage/blob/main/Project%20Details/Technical%20and%20other%20constraints.md)
+- [Decision Logs](/Decision%20Log)
+- [Statement of Work](/Project%20Agreements%20and%20Contract/Statement%20of%20Work%20(SoW).md)
+- [Intellectual Property/Non-Disclosure Agreement (IP/NDA)](/Project%20Agreements%20and%20Contract/Intellectual%20Property%20or%20Non-Disclosure%20Agreement%20(IP%20or%20NDA).md)
+- [Client's Vision](/Client's%20Vision.md)
+- [Problematization Analysis](/Problematization%20Analysis.md)
+- [Project Milestone and Timeline](/Project%20Milestone%20and%20Timeline.md)
+- [Resources, Risks and Potential Cost](/Resources,%20Risks%20and%20Potential%20costs.md)
+- [Technical and Other Constraints](/Technical%20and%20other%20constraints.md)
 
 </br>
 
@@ -94,11 +94,12 @@ We are using following tools with specific purpose. Shortcut links of each tool 
 
 ||Tool|Purpose|
 |:-:|:-:|:-|
-|1|Confluence|- Project overview, description & landing page</br> - Project admin, plans, tasks & documents</br> - Set product requirements & project timeline</br> - Meeting notes & decision logs|
-|2|Slack|- Communication|
-|3|Trello|- Task, schedule managements</br> - Task allocation, member designation</br> - Progress status</br> - Progress visualization|
-|4|Google Drive|- Shared folder for all resources|
-|5|GitHub|- Project development repository|
+|1|GitHub|- Project Landing page & audit</br> - Project development repository |
+|2|Confluence|-Project internal collaborative tools</br> - Project overview, description</br>- Project admin, plans, tasks & documents</br> - Set product requirements & project timeline</br> - Meeting notes & decision logs|
+|3|Slack|- Communication|
+|4|Trello|- Task, schedule managements</br> - Task allocation, member designation</br> - Progress status</br> - Progress visualization|
+|5|Google Drive|- Shared folder for all resources|
+
 
 </br>
 
@@ -121,6 +122,6 @@ Every admin documents - meeting notes, agendas, project plans, members informati
 Our useful resources and links
 Every useful resources or links are add below
 
-Hybrid prediction - Machine Learning & Artificial Intelligence
+[Hybrid prediction - Machine Learning & Artificial Intelligence](https://research.csiro.au/mlai-fsp/activities/hybrid-prediction/)
 
-ANU TechLauncher Docs and Examples
+[ANU TechLauncher Docs and Examples](https://thea.atlassian.net/wiki/spaces/TL/overview?homepageId=997523605)
