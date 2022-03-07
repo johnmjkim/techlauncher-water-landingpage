@@ -78,11 +78,11 @@ Our project roadmap is as below, detailed timeline or dates may vary by potentia
 - [Decision Logs](/Decision%20Log)
 - [Statement of Work](/Project%20Agreements%20and%20Contract/Statement%20of%20Work%20(SoW).md)
 - [Intellectual Property/Non-Disclosure Agreement (IP/NDA)](/Project%20Agreements%20and%20Contract/Intellectual%20Property%20or%20Non-Disclosure%20Agreement%20(IP%20or%20NDA).md)
-- [Client's Vision](/Client's%20Vision.md)
-- [Problematization Analysis](/Problematization%20Analysis.md)
-- [Project Milestone and Timeline](/Project%20Milestone%20and%20Timeline.md)
-- [Resources, Risks and Potential Cost](/Resources,%20Risks%20and%20Potential%20costs.md)
-- [Technical and Other Constraints](/Technical%20and%20other%20constraints.md)
+- [Client's Vision](/Project%20Details/Client's%20Vision.md)
+- [Problematization Analysis](/Project%20Details//Problematization%20Analysis)
+- [Project Milestone and Timeline](/Project%20Details/Project%20Milestone%20and%20Timeline.md)
+- [Resources, Risks and Potential Cost](/Project%20Details/Resources,%20Risks%20and%20Potential%20costs.md)
+- [Technical and Other Constraints](/Project%20Details/Technical%20and%20other%20constraints.md)
 
 </br>
 
