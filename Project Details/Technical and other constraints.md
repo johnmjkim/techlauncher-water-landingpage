@@ -33,4 +33,3 @@
 </br>
 
 - Our project is possibly a part of research of our client and our activities may need to meet both agenda of TechLauncher course requirements and our client's academic activities (deadlines of call for conferences or papers).
-

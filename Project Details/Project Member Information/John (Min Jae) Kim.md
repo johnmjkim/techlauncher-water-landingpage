@@ -1,12 +1,12 @@
-#
+# John (Min Jae) Kim
 
 I would like to contribute role as
 
-Team Management
+- Team Management
 
-PhiFlow
+- PhiFlow
 
-Connect physical model to ML model
+- Connect physical model to ML model
 
 1.Team Management
 
