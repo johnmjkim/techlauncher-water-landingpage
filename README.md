@@ -26,16 +26,7 @@
 
 </br>
 
-The main goal of our team is to develop an emulator of groundwater flow for faster and more efficient prediction.
-
-Because groundwater models are slow to run and ground truth data is expensive, we implement a machine learning (ML) method to accomplish this goal.
-
-**Our project aims to create :**
-
-(1) Benchmark datasets for different Partial Differential Equations (PDE)
-
-(2) methods to facilitate better prediction given the data sets from stage 1
-
+The overarching goal is to develop methods for emulation for models that are characterised by Partial Differential Equations (PDE),  for faster and more efficient prediction. Groundwater models are slow to run and as ground truth data is expensive to acquire, the end goal is to use machine learning (ML) to develop a surrogate version that is faster to simulate from.  Prior to developing the methods, this project aims to construct a range of benchmark datasets for models underpinned by PDE, which then allow us to progress in a second phase of Techlauncher in the second semester, where the goal will focus more on the development of ML methods for emulation
 </br>
 
 ## Core Team
