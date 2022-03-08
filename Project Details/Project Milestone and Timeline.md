@@ -2,13 +2,13 @@
 
 ## Deliverables
 
-- Stage 1 (2022, S1)
+- Stage 1 (Semester 1, 2022) :
 
-  - A fluid simulation model based on PhiFlow
+  - A PDE simulation model based on agreed software which has PDE solving capacity (e.g FeNICs, jax-cfd or PhiFlow)
 
   - Using the simulation model to generate a large amount of data (Approx. 100GB) which will be used in Stage 2
 
-  - An API for simulation model and generated data set reusability
+  - An API for PDE simulation model and dataset of simulations
 
 - Stage 2 (2022, S2)
 

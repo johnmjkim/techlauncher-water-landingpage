@@ -14,9 +14,11 @@ Our list of stakeholders are as below :
 
 - ANU Tech Launcher Shadow Team
 
-- skhldr1
+- HPC Service provider
 
-- skhldr2
+- Data61
+
+- Group interested on groundwater prediction
 
 </br>
 
